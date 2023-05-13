@@ -1,0 +1,14 @@
+{
+  "name": "esim",
+  "version": "1.0.0",
+  "description": "prog3",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "es",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
